@@ -1,0 +1,11 @@
+body{
+    background-color: brown;
+}
+.section{
+    display: flex;
+    justify-content: center;
+}
+button{
+    height: 4rem;
+    width: 4rem;
+}
